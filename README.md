@@ -1,11 +1,11 @@
-#Entrevista desarrollador IOs
+# Entrevista desarrollador IOs
 
 Este repo tiene como objetivo proporcionar un listado de preguntas para desarrolladores de IOS
 
 ## Tipos de Datos y Colecciones
 
-- ¿Cómo se declara y utiliza un Array en Swift? Proporcione un ejemplo de cómo agregar, eliminar y acceder a elementos.
-- ¿Qué es un Set en Swift y en qué casos lo usarías en lugar de un Array?
+- ¿Cómo se declara y utiliza un `Array` en Swift? Proporcione un ejemplo de cómo agregar, eliminar y acceder a elementos.
+- ¿Qué es un `Set` en Swift y en qué casos lo usarías en lugar de un `Array`?
 
 ## Opcionales
 
@@ -14,13 +14,13 @@ Este repo tiene como objetivo proporcionar un listado de preguntas para desarrol
 
 ## Condicionales y Bucles
 
-- Explique cómo se utilizan las sentencias if y switch en Swift. Proporcione ejemplos de cada uno.
-- ¿Cómo se implementan los bucles for, while y repeat-while en Swift? Proporcione un ejemplo para cada uno.
+- Explique cómo se utilizan las sentencias `if` y `switch` en Swift. Proporcione ejemplos de cada uno.
+- ¿Cómo se implementan los bucles `for`, `while` y `repeat-while` en Swift? Proporcione un ejemplo para cada uno.
 
 ## Guard y Defer
 
-- ¿Qué es una sentencia guard y cuándo la usarías? Proporcione un ejemplo.
-- ¿Qué es la sentencia defer y cómo puede ser útil en la gestión de recursos?
+- ¿Qué es una sentencia `guard` y cuándo la usarías? Proporcione un ejemplo.
+- ¿Qué es la sentencia `defer` y cómo puede ser útil en la gestión de recursos?
 
 ## Funciones
 
@@ -34,7 +34,7 @@ Este repo tiene como objetivo proporcionar un listado de preguntas para desarrol
 
 ## Clases y Estructuras
 
-- ¿Cuáles son las principales diferencias entre una clase y una estructura en Swift?
+- ¿Cuáles son las principales diferencias entre una `class` y una `struct` en Swift?
 - ¿Cómo se implementa la herencia en Swift? Proporcione un ejemplo de una clase base y una clase derivada.
 
 ## Protocolos y Delegación
@@ -44,12 +44,12 @@ Este repo tiene como objetivo proporcionar un listado de preguntas para desarrol
 
 ## Manejo de Memoria
 
-- ¿Qué diferencia hay entre weak unowned y strong?
+- ¿Qué diferencia hay entre `weak` `unowned` y `strong`?
 
 ## Manejo de Errores
 
-- ¿Cómo se manejan los errores en Swift? Explique el uso de do-catch y throws.
-- ¿Qué es un guard con manejo de errores y cómo se usa?
+- ¿Cómo se manejan los errores en Swift? Explique el uso de `do-catch` y `throws`.
+- ¿Qué es un `guard` con manejo de errores y cómo se usa?
 
 ## Concurrencia y Multithreading
 
