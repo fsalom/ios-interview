@@ -1,6 +1,23 @@
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+<!-- TOC --><a name="bienvenido-al-repositorio-ios-interview"></a>
+# ¡Bienvenido al repositorio "iOS Interview"!
 
-- [Entrevista desarrollador IOs](#entrevista-desarrollador-ios)
+Este repositorio está diseñado como una herramienta integral para ayudarte a prepararte para entrevistas de desarrollo iOS. Contiene una amplia variedad de preguntas, ejercicios y recursos útiles para que puedas adquirir y mejorar tus habilidades técnicas y de resolución de problemas en el contexto específico del desarrollo de aplicaciones para dispositivos iOS.
+
+Características Principales:
+
+- Preguntas Conceptuales y Técnicas: Encuentra una extensa colección de preguntas sobre Swift, UIKit, SwiftUI, patrones de diseño, API de iOS, y mucho más. Desde conceptos básicos hasta temas avanzados, estas preguntas te ayudarán a repasar y solidificar tu comprensión de los fundamentos y conceptos clave en el desarrollo de iOS.
+
+- Ejercicios Prácticos: Pon a prueba tus habilidades con una variedad de ejercicios prácticos que cubren diferentes aspectos del desarrollo iOS, como el manejo de datos, diseño de interfaces de usuario, arquitectura de aplicaciones y optimización de rendimiento. Los ejercicios están diseñados para desafiarte y ayudarte a desarrollar tu habilidad para resolver problemas de manera efectiva.
+
+- Recursos Adicionales: Además de preguntas y ejercicios, este repositorio también incluye enlaces a recursos adicionales, como libros, artículos, tutoriales y proyectos de código abierto relevantes para el desarrollo iOS. Estos recursos complementarios te brindarán una comprensión más profunda y te ayudarán a mantenerte actualizado sobre las últimas tendencias y mejores prácticas en el mundo del desarrollo de aplicaciones iOS.
+
+- Contribuciones y Colaboración: ¡Tu participación es bienvenida! Si tienes preguntas adicionales, ejercicios interesantes o recursos valiosos que crees que podrían beneficiar a otros desarrolladores iOS, no dudes en contribuir al repositorio. Juntos, podemos hacer de este un recurso aún más completo y útil para la comunidad de desarrollo iOS.
+
+¡Prepárate para tus próximas entrevistas de desarrollo iOS con "iOS Developer Interview Prep" y lleva tus habilidades al siguiente nivel!
+
+# Tabla de contenido
+
+- [Preguntas Conceptuales y Técnicas](#preguntas-conceptuales-y-técnicas)
    * [Tipos de Datos y Colecciones](#tipos-de-datos-y-colecciones)
    * [Opcionales](#opcionales)
    * [Condicionales y Bucles](#condicionales-y-bucles)
@@ -14,14 +31,11 @@
    * [Concurrencia y Multithreading](#concurrencia-y-multithreading)
    * [Generics](#generics)
    * [Extensions y Protocol Extensions](#extensions-y-protocol-extensions)
-   * [Ejemplos Prácticos](#ejemplos-prácticos)
+- [Ejercicios Prácticos](#ejercicios-prácticos)
+   * [Descripción de solución](#descripción-de-solución)
 
-<!-- TOC end -->
-
-<!-- TOC --><a name="entrevista-desarrollador-ios"></a>
-# Entrevista desarrollador IOs
-
-Este repo tiene como objetivo proporcionar un listado de preguntas para desarrolladores de IOS
+<!-- TOC --><a name="preguntas-conceptuales-y-técnicas"></a>
+# Preguntas Conceptuales y Técnicas
 
 <!-- TOC --><a name="tipos-de-datos-y-colecciones"></a>
 ## Tipos de Datos y Colecciones
@@ -180,8 +194,11 @@ func fetchData() -> String {
 - ¿Cómo funcionan las extensiones de protocolos y qué beneficios aportan?
 - ¿Cuáles son las limitaciones de las extensiones en comparación con la modificación directa de la declaración de una clase o estructura?
 
-<!-- TOC --><a name="ejemplos-prácticos"></a>
-## Ejemplos Prácticos
+<!-- TOC --><a name="ejercicios-prácticos"></a>
+# Ejercicios Prácticos
+
+<!-- TOC --><a name="descripción-de-solución"></a>
+## Descripción de solución
 
 - ¿Cómo implementarías una funcionalidad de búsqueda en una lista de elementos en Swift? Proporcione un pseudocódigo o una implementación simplificada.
 - Describa cómo implementaría un cargador de imágenes asíncrono en una aplicación iOS usando Swift.
