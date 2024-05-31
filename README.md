@@ -34,6 +34,8 @@ Características Principales:
    * [Seguridad](#seguridad)
    * [UIKit](#uikit)
    * [SwiftUI](#swiftui)
+- [Arquitectura](#arquitectura)
+   * [Preguntas generales](#arquitectura-preguntas-generales)
 - [Ejercicios Prácticos](#ejercicios-prácticos)
    * [Descripción de solución](#descripción-de-solución)
 
@@ -227,12 +229,31 @@ func fetchData() -> String {
 - ¿Qué estrategias utilizas para integrar SwiftUI con UIKit en aplicaciones existentes?
 - ¿Cómo manejas la persistencia de datos en una aplicación SwiftUI?
 
+<!-- TOC --><a name="arquitectura"></a>
+# Arquitectura
+
+<!-- TOC --><a name="arquitectura-preguntas-generales"></a>
+## Preguntas generales
+
+- ¿Puedes explicar brevemente qué es la arquitectura Clean y cuáles son sus principales beneficios?
+- ¿Cuáles son las principales capas en la arquitectura Clean y qué responsabilidades tiene cada una?
+- ¿Cómo diferencias la arquitectura Clean de otras arquitecturas como MVC, MVVM o VIPER?
+- ¿Cómo estructuras un proyecto iOS siguiendo la arquitectura Clean?
+- ¿Qué papel juegan los casos de uso (use cases) en la arquitectura Clean y cómo los implementas en iOS?
+- ¿Cómo manejas la navegación y el enrutamiento en una aplicación diseñada con la arquitectura Clean?
+- ¿Cómo integras los servicios de red y la persistencia de datos en un proyecto con arquitectura Clean?
+- ¿Cómo gestionas la comunicación entre las diferentes capas (por ejemplo, entre la capa de presentación y la capa de dominio)?
+- ¿Qué patrones de diseño utilizas para la comunicación entre capas en la arquitectura Clean?
+- ¿Cómo implementas la inyección de dependencias en un proyecto con arquitectura Clean?
+- ¿Qué estrategias utilizas para hacer que una aplicación basada en la arquitectura Clean sea fácilmente testeable?
+
 <!-- TOC --><a name="ejercicios-prácticos"></a>
 # Ejercicios Prácticos
 
 <!-- TOC --><a name="descripción-de-solución"></a>
 ## Descripción de solución
 
+- ¿Cómo crearías una aplicación nueva? ¿Qué arquitectura utilizarías y por qué?
 - ¿Cómo implementarías una funcionalidad de búsqueda en una lista de elementos en Swift? Proporcione un pseudocódigo o una implementación simplificada.
 - Describa cómo implementaría un cargador de imágenes asíncrono en una aplicación iOS usando Swift.
 
