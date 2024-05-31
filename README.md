@@ -31,6 +31,9 @@ Características Principales:
    * [Concurrencia y Multithreading](#concurrencia-y-multithreading)
    * [Generics](#generics)
    * [Extensions y Protocol Extensions](#extensions-y-protocol-extensions)
+   * [Seguridad](#seguridad)
+   * [UIKit](#uikit)
+   * [SwiftUI](#swiftui)
 - [Ejercicios Prácticos](#ejercicios-prácticos)
    * [Descripción de solución](#descripción-de-solución)
 
@@ -42,6 +45,7 @@ Características Principales:
 
 - ¿Cómo se declara y utiliza un `Array` en Swift? Proporcione un ejemplo de cómo agregar, eliminar y acceder a elementos.
 - ¿Qué es un `Set` en Swift y en qué casos lo usarías en lugar de un `Array`?
+- ¿Cual es el proposito de `didSet`y `willSet`?
 
 <!-- TOC --><a name="opcionales"></a>
 ## Opcionales
@@ -120,6 +124,7 @@ let user: User? = User(address: Address(street: "Main Street"))
 - ¿Cuáles son las principales diferencias entre una `class` y una `struct` en Swift?
 - ¿Cuándo preferirías usar una estructura sobre una clase y viceversa?
 - ¿Cuándo preferirías usar una estructura sobre una clase y viceversa en SwiftUI?
+- ¿Qué diferencia hay entre `open` `internal` `private` y `fileprivate`?
 - ¿Cómo se definen métodos en una clase y una estructura? ¿Existen diferencias en la forma en que los métodos se comportan en ambas?
 - ¿Cómo se implementa la herencia en Swift? Proporcione un ejemplo de una clase base y una clase derivada.
 - ¿Por qué las estructuras no soportan herencia en Swift?
@@ -193,6 +198,34 @@ func fetchData() -> String {
 - ¿Qué son las extensiones en Swift y cuándo se utilizan? Proporcione un ejemplo.
 - ¿Cómo funcionan las extensiones de protocolos y qué beneficios aportan?
 - ¿Cuáles son las limitaciones de las extensiones en comparación con la modificación directa de la declaración de una clase o estructura?
+
+<!-- TOC --><a name="seguridad"></a>
+## Seguridad
+
+- ¿Qué diferencia hay entre `UserDefaults` y `Keychain`?
+- Explica el flujo del protocolo Oauth
+- ¿Qué técnicas utilizas para almacenar datos sensibles de manera segura en una aplicación iOS?
+- ¿Qué consideraciones tienes en cuenta al usar el almacenamiento en el dispositivo, como UserDefaults y CoreData, para datos sensibles?
+
+<!-- TOC --><a name="uikit"></a>
+## UIKit
+
+- Describe el ciclo de vida
+- ¿Qué diferencia hay entre `viewDidLoad` y `viewWillAppear`?
+- ¿Qué diferencia hay entre `frame` y `bounds`?
+- ¿Cual es la diferencia entre `storyboard` y `xib`?
+- ¿Para que sirve `reuseIdentifier` en UITableView y UICollectionView?
+
+<!-- TOC --><a name="swiftui"></a>
+## SwiftUI
+
+- ¿Puedes explicar brevemente cómo funciona el ciclo de vida de una vista en SwiftUI?
+- ¿Qué son los modifiers en SwiftUI y cómo se utilizan?
+- ¿Cómo gestionas el estado en SwiftUI?
+- ¿Podrías explicar la diferencia entre `@State`, `@Binding` y `@ObservedObject`?
+- ¿Cómo manejas la navegación entre vistas en SwiftUI?
+- ¿Qué estrategias utilizas para integrar SwiftUI con UIKit en aplicaciones existentes?
+- ¿Cómo manejas la persistencia de datos en una aplicación SwiftUI?
 
 <!-- TOC --><a name="ejercicios-prácticos"></a>
 # Ejercicios Prácticos
